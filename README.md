@@ -1,4 +1,4 @@
-# Fitting Poisson  distribution
+# EXP NO:2:Fitting Poisson  distribution
 
 # DATE: 05/10/2024
 
